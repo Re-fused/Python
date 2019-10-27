@@ -4,6 +4,7 @@ import sys
 from PyQt5 import QtCore, QtGui, QtWidgets
 from PyQt5.QtWidgets import QApplication, QMainWindow, QMessageBox
 from PyQt5.QtCore import QObject, pyqtSignal
+# rqwrwq fwq
 
 dx = [1, -1, 0, 0, -1, 1, -1, 1]  # 坐标
 dy = [0, 0, 1, -1, -1, 1, 1, -1]
